@@ -1,4 +1,4 @@
-# Performing Exploratory Data Analysis(EDA) on Students performance Data
+# Performing Exploratory Data Analysis (EDA) on Students performance Data
 
 ![BABy_Imge](https://www.icds.psu.edu/wp-content/uploads/2022/06/classroom-web.jpg)
 
